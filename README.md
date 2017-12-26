@@ -5,10 +5,10 @@ untuk tutorial lengkapnya bisa dilihat di file dengan nama tutorial.docx
 TUTORIAL
 1. Pertama install docker compose terlebih dahulu yaitu buka terminal dan mengetikkan apt-get install docker compose tunggu hingga proses intall selesai
 2. Setelah itu membuat folder untuk menampung file-file yang diperlukan untuk docker compose, nama dan letaknya bebas. Sebagai contoh saya menggunakan nama folder Docker di Download
-3. Selanjutnya membuat beberapa file yaitu index.php yang akan di run didocker compose dengan isian
-.            <?php
+3. Selanjutnya membuat beberapa file yaitu index.php yang akan di run didocker compose dengan isian dibawah ini hilangkan tanda //
+            <?php
             echo "<b>";
-            echo "<center><h1>Tugas Teori TCC 12 - Docker Compose</h1></center>";
+//            echo "<center><h1>Tugas Teori TCC 12 - Docker Compose</h1></center>";
             echo "<br>";
             echo "<h3>Nama 		: Thomas Prayudhi Triutomo<br>";
             echo "NIM 			: 155410041<br>";
