@@ -6,7 +6,7 @@ TUTORIAL
 1. Pertama install docker compose terlebih dahulu yaitu buka terminal dan mengetikkan apt-get install docker compose tunggu hingga proses intall selesai
 2. Setelah itu membuat folder untuk menampung file-file yang diperlukan untuk docker compose, nama dan letaknya bebas. Sebagai contoh saya menggunakan nama folder Docker di Download
 3. Selanjutnya membuat beberapa file yaitu index.php yang akan di run didocker compose dengan isian
-            <?php
+.            <?php
             echo "<b>";
             echo "<center><h1>Tugas Teori TCC 12 - Docker Compose</h1></center>";
             echo "<br>";
